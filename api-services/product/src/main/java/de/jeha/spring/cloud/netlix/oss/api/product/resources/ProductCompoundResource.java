@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.concurrent.ExecutionException;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 @RestController
 public class ProductCompoundResource {

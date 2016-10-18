@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.security.Principal;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 @SpringBootApplication
 @RestController

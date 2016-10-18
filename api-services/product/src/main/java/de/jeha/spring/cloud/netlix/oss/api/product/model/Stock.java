@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 public class Stock {
 

@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 //import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 @SpringBootApplication
 @EnableDiscoveryClient

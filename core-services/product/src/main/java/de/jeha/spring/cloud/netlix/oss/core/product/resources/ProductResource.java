@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 @RestController
 public class ProductResource {

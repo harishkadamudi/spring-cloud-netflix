@@ -18,7 +18,7 @@ import java.net.URI;
 import java.util.concurrent.Future;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 @Component
 public class StockDataProvider {

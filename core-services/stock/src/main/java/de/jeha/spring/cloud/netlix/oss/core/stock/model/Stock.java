@@ -1,7 +1,7 @@
 package de.jeha.spring.cloud.netlix.oss.core.stock.model;
 
 /**
- * @author jenshadlich@googlemail.com
+ * @author harishyouk@gmail.com
  */
 public class Stock {
 
